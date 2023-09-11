@@ -1,0 +1,18 @@
+# dependencies and build process
+node_modules/
+yarn.lock
+credential_bq.json
+coverage.out
+.env
+coverage
+build
+
+# IDEs
+.idea/
+.history
+.tscache
+
+# OS hidden files
+.DS_Store
+Thumbs.db
+./proxy
